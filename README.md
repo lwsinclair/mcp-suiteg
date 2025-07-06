@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/josedu90-mcp-suiteg-badge.png)](https://mseep.ai/app/josedu90-mcp-suiteg)
+
 # MCP Google Workspace Server
 
 [![CI](https://github.com/adexltd/mcp-google-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/adexltd/mcp-google-suite/actions/workflows/ci.yml)
